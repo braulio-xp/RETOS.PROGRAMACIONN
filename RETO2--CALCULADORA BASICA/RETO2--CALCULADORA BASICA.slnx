@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CALCBAS/CALCBAS.vcxproj" Id="cfac3c2a-fa48-45f1-b569-69203670264a" />
+</Solution>
