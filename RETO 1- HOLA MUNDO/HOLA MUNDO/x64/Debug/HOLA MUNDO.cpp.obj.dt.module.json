@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\HOLA MUNDO.obj",
+            "outputs": [
+                "x64\\Debug\\HOLA MUNDO.cpp.obj.dt.module.json",
+                "x64\\Debug\\HOLA MUNDO.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
